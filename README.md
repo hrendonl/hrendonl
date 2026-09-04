@@ -36,20 +36,4 @@ I am a passionate **Software Developer** with strong expertise in **Backend** an
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrendonl&show_icons=true&theme=radial&hide_border=true" alt="Hugo's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrendonl&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
-</div>
-
----
-
-### 📫 Connect with Me
-
-- **LinkedIn**: [hrendonl](https://www.linkedin.com/in/hrendonl/)
-- **HackerRank**: [hrvega14](https://www.hackerrank.com/profile/hrvega14)
-- **GitHub**: [hrendonl](https://github.com/hrendonl)
 
